@@ -1,0 +1,51 @@
+rank,year,exam,question,multiple_choice,syllabus_code,topic,marks,lowest_state_mean_mark_pct,state_mean_marks_by_part,smartermaths_header,source_worksheet
+1,2013,General Mathematics,27c,no,S1,Statistics,3,1,(i) 13%; (ii) 1%,"26.  Statistics, STD2 S1 2013 HSC 27c",Interpretation and Bivariate Data.pdf
+2,2011,General Mathematics,25a,no,,Data,4,7,(iii) 7%; (iv) 18%,"13.  Data, 2UG 2011 HSC 25a",1. Classifying Data (1).pdf
+3,2017,Mathematics General 2,29d,no,S5,Statistics,4,13,(i) 50%; (ii) 34%; (iii) 13%,"29.  Statistics, STD2 S5 2017 HSC 29d",1. Normal Distribution (1).pdf
+4,2019,Mathematics Standard 2,15,yes,S5,Statistics,1,17,17%,"10.  Statistics, STD2 S5 2019 HSC 15 MC",Random Variables PDF and CDF.pdf
+5,2019,Mathematics Standard 2,10,yes,S1,Statistics,1,18,18%,"9.  Statistics, STD2 S1 2019 HSC 10 MC",Interpretation and Bivariate Data.pdf
+6,2009,General Mathematics,28b,no,S4,Statistics,3,18,(i) 48%; (ii) 18%,"25.  Statistics, STD2 S4 2009 HSC 28b",Interpretation and Bivariate Data.pdf
+7,2013,General Mathematics,29b,no,S5,Statistics,4,21,(i) 39%; (ii) 21%,"26.  Statistics, STD2 S5 2013 HSC 29b",1. Normal Distribution (1).pdf
+8,2017,Mathematics General 2,27c,no,F5,Financial Maths,2,22,(ii) 22%,"16.  Financial Maths, STD2 F5 2017 HSC 27c",1. Modelling Investments and Loans.pdf
+9,2017,Mathematics General 2,30d,no,,Algebra,3,23,(ii) 23%,"11.  Algebra, 2UG 2017 HSC 30d",4. Bivariate Data Analysis.pdf
+10,2013,General Mathematics,20,yes,S5,Statistics,1,24,24%,"9.  Statistics, STD2 S5 2013 HSC 20 MC",Random Variables PDF and CDF.pdf
+11,2012,General Mathematics,9,yes,F4,Financial Maths,1,24,24%,"6.  Financial Maths, STD2 F4 2012 HSC 9 MC",1. Modelling Investments and Loans.pdf
+12,2016,Mathematics General 2,7,yes,,Data,1,26,26%,"9.  Data, 2UG 2016 HSC 7 MC",1. Classifying Data (1).pdf
+13,2019,Mathematics Standard 2,42,no,F5,Financial Maths,3,27,27%,"19.  Financial Maths, STD2 F5 2019 HSC 42",Financial Maths 1.pdf
+14,2018,Mathematics General 2,26e,no,S1,Statistics,2,27,27%,"23.  Statistics, STD2 S1 2018 HSC 26e",Interpretation and Bivariate Data.pdf
+15,2019,Mathematics Standard 2,39,no,S1,Statistics,5,28,28%,"24.  Statistics, STD2 S1 2019 HSC 39",Interpretation and Bivariate Data.pdf
+16,2011,General Mathematics,23c,no,F4,Financial Maths,2,28,28%,"20.  Financial Maths, STD2 F4 2011 HSC 23c",1. Modelling Investments and Loans.pdf
+17,2009,General Mathematics,21,yes,S1,Statistics,1,28,28%,"8.  Statistics, STD2 S1 2009 HSC 21 MC",Interpretation and Bivariate Data.pdf
+18,2009,General Mathematics,27a,no,F5,Financial Maths,5,31,(ii) 45%; (iii) 31%,"14.  Financial Maths, STD2 F5 2009 HSC 27a",1. Modelling Investments and Loans.pdf
+19,2020,Mathematics Standard 2,7,yes,S1,Statistics,1,32,32%,"7.  Statistics, STD2 S1 2020 HSC 7 MC",Interpretation and Bivariate Data.pdf
+20,2016,Mathematics General 2,30d,no,S5,Statistics,4,32,(ii) 32%,"24.  Statistics, STD2 S5 2016 HSC 30d",1. Normal Distribution (1).pdf
+21,2018,Mathematics General 2,19,yes,F4,Financial Maths,1,33,33%,"8.  Financial Maths, STD2 F4 2018 HSC 19 MC",1. Modelling Investments and Loans.pdf
+22,2016,Mathematics General 2,29e,no,A2,Algebra,3,33,(ii) 33%,"9.  Algebra, STD2 A2 2016 HSC 29e",Bivariate Data HSC Qns.pdf
+23,2015,Mathematics General 2,30c,no,F5,Financial Maths,3,33,(i) 48%; (ii) 33%,"22.  Financial Maths, STD2 F5 2015 HSC 30c",1. Modelling Investments and Loans.pdf
+24,2016,Mathematics General 2,23,yes,S2,Probability,1,34,34%,"8.  Probability, STD2 S2 2016 HSC 23 MC",Probability and Probability Distributions.pdf
+25,2011,General Mathematics,25d,no,S1,Statistics,2,34,(ii) 34%,"21.  Statistics, STD2 S1 2011 HSC 25d",Interpretation and Bivariate Data.pdf
+26,2013,General Mathematics,28b,no,,FS Health,6,38,(ii) 38%,"12.  FS Health, 2UG 2013 HSC 28b",4. Bivariate Data Analysis.pdf
+27,2015,Mathematics General 2,19,yes,,FS Health,1,39,39%,"9.  FS Health, 2UG 2015 HSC 19 MC",4. Bivariate Data Analysis.pdf
+28,2019,Mathematics Standard 2,23,no,S4,Statistics,3,40,(a) 40%,"22.  Statistics, STD2 S4 2019 HSC 23",Interpretation and Bivariate Data.pdf
+29,2018,Mathematics General 2,26a,no,,Probability,1,40,40%,"11.  Probability, 2UG 2018 HSC 26a",2. Relative Frequency.pdf
+30,2016,Mathematics General 2,28d,no,F5,Financial Maths,2,40,40%,"23.  Financial Maths, STD2 F5 2016 HSC 28d",1. Modelling Investments and Loans.pdf
+31,2013,General Mathematics,23,yes,F5,Financial Maths,1,41,41%,"9.  Financial Maths, STD2 F5 2013 23 MC",1. Modelling Investments and Loans.pdf
+32,2009,General Mathematics,25d,no,S5,Statistics,4,41,(ii) 41%,"19.  Statistics, STD2 S5 2009 HSC 25d",1. Normal Distribution (1).pdf
+33,2019,Mathematics Standard 2,34,no,A2,Algebra,3,42,(a) 42%,"29.  Algebra, STD2 A2 2019 HSC 34",Working with Functions.pdf
+34,2011,General Mathematics,27d,no,F5,Financial Maths,4,42,42%,"18.  Financial Maths, STD2 F5 2011 HSC 27d",1. Modelling Investments and Loans.pdf
+35,2011,General Mathematics,27c,no,S5,Statistics,3,42,(ii) 42%,"21.  Statistics, STD2 S5 2011 HSC 27c",1. Normal Distribution (1).pdf
+36,2010,General Mathematics,24c,no,S5,Statistics,4,42,(ii) 42%,"20.  Statistics, STD2 S5 2010 HSC 24c",1. Normal Distribution (1).pdf
+37,2016,Mathematics General 2,21,yes,S1,Statistics,1,43,43%,"6.  Statistics, STD2 S1 2016 HSC 21 MC",Interpretation and Bivariate Data.pdf
+38,2014,Mathematics General 2,21,yes,F5,Financial Maths,1,43,43%,"7.  Financial Maths, STD2 F5 2014 HSC 21 MC",1. Modelling Investments and Loans.pdf
+39,2012,General Mathematics,11,yes,S4,Statistics,1,43,43%,"4.  Statistics, STD2 S4 2012 HSC 11 MC",Interpretation and Bivariate Data.pdf
+40,2019,Mathematics Standard 2,38,no,S5,Statistics,2,44,44%,"28.  Statistics, STD2 S5 2019 HSC 38",1. Normal Distribution (1).pdf
+41,2015,Mathematics General 2,28b,no,S5,Statistics,2,44,44%,"18.  Statistics, STD2 S5 2015 HSC 28b",Random Variables PDF and CDF.pdf
+42,2013,General Mathematics,26e,no,F4,Financial Maths,2,44,44%,"21.  Financial Maths, STD2 F4 2013 HSC 26e",1. Modelling Investments and Loans.pdf
+43,2012,General Mathematics,29b,no,S5,Statistics,2,44,44%,"25.  Statistics, STD2 S5 2012 HSC 29b",1. Normal Distribution (1).pdf
+44,2014,Mathematics General 2,24,yes,S5,Statistics,1,46,46%,"10.  Statistics, STD2 S5 2014 HSC 24 MC",1. Normal Distribution (1).pdf
+45,2018,Mathematics General 2,23,yes,S5,Statistics,1,47,47%,"12.  Statistics, STD2 S5 2018 HSC 23 MC",1. Normal Distribution (1).pdf
+46,2017,Mathematics General 2,27a,no,S1,Statistics,2,47,(ii) 47%,"20.  Statistics, STD2 S1 2017 HSC 27a",Interpretation and Bivariate Data.pdf
+47,2017,Mathematics General 2,29c,no,,Probability,4,47,(ii) 47%,"10.  Probability, 2UG 2017 HSC 29c",2. Relative Frequency.pdf
+48,2014,Mathematics General 2,30a,no,F4,Financial Maths,3,49,49%,"19.  Financial Maths, STD2 F4 2014 HSC 30a",1. Modelling Investments and Loans.pdf
+49,2015,Mathematics General 2,20,yes,S5,Statistics,1,50,50%,"6.  Statistics, STD2 S5 2015 HSC 20 MC",Random Variables PDF and CDF.pdf
+50,2011,General Mathematics,20,yes,A4,Algebra,1,50,50%,"11.  Algebra, STD2 A4 2011 HSC 20 MC",Working with Functions.pdf

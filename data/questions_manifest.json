@@ -1,0 +1,2439 @@
+[
+ {
+  "id": "2013_Q27c",
+  "year": 2013,
+  "qnum": "27c",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S1",
+  "topic": "Statistics",
+  "header": "26.\u00a0\u00a0Statistics, STD2 S1 2013 HSC 27c",
+  "marks_total": 3,
+  "marks_parts": [
+   2,
+   1
+  ],
+  "means": [
+   {
+    "pct": 13,
+    "label": "i",
+    "raw": "Mean mark 13%",
+    "y": 79.59259033203125,
+    "page": 20
+   },
+   {
+    "pct": 1,
+    "label": "ii",
+    "raw": "mean mark of 1%",
+    "y": 234.36212158203125,
+    "page": 20
+   }
+  ],
+  "rank_pct": 1,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 26,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2013_Q27c_q_0.png",
+    "w": 998,
+    "h": 1387,
+    "page": 13,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2013_Q27c_s_0.png",
+    "w": 948,
+    "h": 548,
+    "page": 20,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2011_Q25a",
+  "year": 2011,
+  "qnum": "25a",
+  "mc": false,
+  "tag": "2UG",
+  "code": null,
+  "topic": "Data",
+  "header": "13.  Data, 2UG 2011 HSC 25a",
+  "marks_total": 4,
+  "marks_parts": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "means": [
+   {
+    "pct": 7,
+    "label": "iii",
+    "raw": "Mean mark 7%",
+    "y": 148.81747436523438,
+    "page": 4
+   },
+   {
+    "pct": 18,
+    "label": "iv",
+    "raw": "Mean mark 18%",
+    "y": 230.81845092773438,
+    "page": 4
+   }
+  ],
+  "rank_pct": 7,
+  "source_file": "11Oh7CPEKpc7L1r0KRrIzZGGlEwGLDKmP__1. Classifying Data (1).pdf",
+  "source_n": 13,
+  "body_pt": 8.688844680786133,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2011_Q25a_q_0.png",
+    "w": 986,
+    "h": 810,
+    "page": 2,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2011_Q25a_s_0.png",
+    "w": 942,
+    "h": 641,
+    "page": 4,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2017_Q29d",
+  "year": 2017,
+  "qnum": "29d",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "29.\u00a0\u00a0Statistics, STD2 S5 2017 HSC 29d",
+  "marks_total": 4,
+  "marks_parts": [
+   1,
+   2,
+   1
+  ],
+  "means": [
+   {
+    "pct": 50,
+    "label": null,
+    "raw": "Mean mark 50%",
+    "y": 229.6604461669922,
+    "page": 16
+   },
+   {
+    "pct": 34,
+    "label": "ii",
+    "raw": "Mean mark 34%",
+    "y": 333.10382080078125,
+    "page": 16
+   },
+   {
+    "pct": 13,
+    "label": "iii",
+    "raw": "Mean mark 13%",
+    "y": 454.04327392578125,
+    "page": 16
+   }
+  ],
+  "rank_pct": 13,
+  "source_file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+  "source_n": 29,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2017_Q29d_q_0.png",
+    "w": 1036,
+    "h": 779,
+    "page": 5,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2017_Q29d_s_0.png",
+    "w": 874,
+    "h": 656,
+    "page": 16,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2019_Q15",
+  "year": 2019,
+  "qnum": "15",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "10.\u00a0\u00a0Statistics, STD2 S5 2019 HSC 15 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 17,
+    "label": null,
+    "raw": "Mean mark 17%",
+    "y": 515.2830200195312,
+    "page": 13
+   }
+  ],
+  "rank_pct": 17,
+  "source_file": "1216L9NLfAr0__RjZAf7mnkTTTOX_Tzey__Random Variables PDF and CDF.pdf",
+  "source_n": 10,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [
+   {
+    "file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+    "n": 14,
+    "tag": "STD2"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2019_Q15_q_0.png",
+    "w": 982,
+    "h": 617,
+    "page": 4,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2019_Q15_s_0.png",
+    "w": 809,
+    "h": 128,
+    "page": 13,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2019_Q10",
+  "year": 2019,
+  "qnum": "10",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S1",
+  "topic": "Statistics",
+  "header": "9.\u00a0\u00a0Statistics, STD2 S1 2019 HSC 10 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 18,
+    "label": null,
+    "raw": "Mean mark 18%",
+    "y": 418.28594970703125,
+    "page": 15
+   }
+  ],
+  "rank_pct": 18,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 9,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2019_Q10_q_0.png",
+    "w": 957,
+    "h": 999,
+    "page": 4,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2019_Q10_s_0.png",
+    "w": 809,
+    "h": 178,
+    "page": 15,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2009_Q28b",
+  "year": 2009,
+  "qnum": "28b",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S4",
+  "topic": "Statistics",
+  "header": "25.\u00a0\u00a0Statistics, STD2 S4 2009 HSC 28b",
+  "marks_total": 3,
+  "marks_parts": [
+   1,
+   2
+  ],
+  "means": [
+   {
+    "pct": 48,
+    "label": "i",
+    "raw": "Mean mark 48%",
+    "y": 79.59063720703125,
+    "page": 19
+   },
+   {
+    "pct": 18,
+    "label": "ii",
+    "raw": "Mean mark 18%",
+    "y": 132.59454345703125,
+    "page": 19
+   }
+  ],
+  "rank_pct": 18,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 25,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [
+   {
+    "file": "196YMF37dmRtAa1wJs6nLHNtc1xd1nqUb__4. Bivariate Data Analysis.pdf",
+    "n": 15,
+    "tag": "2UG"
+   },
+   {
+    "file": "1yHZxJTXerymEdBrTukKaxrxUIL3exezC__Bivariate Data HSC Qns.pdf",
+    "n": 13,
+    "tag": "2UG"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2009_Q28b_q_0.png",
+    "w": 974,
+    "h": 1304,
+    "page": 12,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2009_Q28b_s_0.png",
+    "w": 948,
+    "h": 800,
+    "page": 19,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2013_Q29b",
+  "year": 2013,
+  "qnum": "29b",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "26.\u00a0\u00a0Statistics, STD2 S5 2013 HSC 29b",
+  "marks_total": 4,
+  "marks_parts": [
+   1,
+   3
+  ],
+  "means": [
+   {
+    "pct": 39,
+    "label": "i",
+    "raw": "Mean mark 39%",
+    "y": 44.90263748168945,
+    "page": 15
+   },
+   {
+    "pct": 21,
+    "label": "ii",
+    "raw": "Mean mark 21%",
+    "y": 189.5178680419922,
+    "page": 15
+   }
+  ],
+  "rank_pct": 21,
+  "source_file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+  "source_n": 26,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2013_Q29b_q_0.png",
+    "w": 1006,
+    "h": 304,
+    "page": 4,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2013_Q29b_s_0.png",
+    "w": 970,
+    "h": 670,
+    "page": 15,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2017_Q27c",
+  "year": 2017,
+  "qnum": "27c",
+  "mc": false,
+  "tag": "STD2",
+  "code": "F5",
+  "topic": "Financial Maths",
+  "header": "16.\u00a0\u00a0Financial Maths, STD2 F5 2017 HSC 27c",
+  "marks_total": 2,
+  "marks_parts": [
+   1,
+   1
+  ],
+  "means": [
+   {
+    "pct": 22,
+    "label": "ii",
+    "raw": "Mean mark part (ii) 22%",
+    "y": 272.88995361328125,
+    "page": 9
+   }
+  ],
+  "rank_pct": 22,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 16,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2017_Q27c_q_0.png",
+    "w": 963,
+    "h": 569,
+    "page": 4,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2017_Q27c_s_0.png",
+    "w": 973,
+    "h": 317,
+    "page": 9,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2017_Q30d",
+  "year": 2017,
+  "qnum": "30d",
+  "mc": false,
+  "tag": "2UG",
+  "code": null,
+  "topic": "Algebra",
+  "header": "11.  Algebra, 2UG 2017 HSC 30d",
+  "marks_total": 3,
+  "marks_parts": [
+   1,
+   2
+  ],
+  "means": [
+   {
+    "pct": 23,
+    "label": "ii",
+    "raw": "Mean mark 23%",
+    "y": 342.6871032714844,
+    "page": 7
+   }
+  ],
+  "rank_pct": 23,
+  "source_file": "196YMF37dmRtAa1wJs6nLHNtc1xd1nqUb__4. Bivariate Data Analysis.pdf",
+  "source_n": 11,
+  "body_pt": 8.688844680786133,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2017_Q30d_q_0.png",
+    "w": 986,
+    "h": 667,
+    "page": 3,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2017_Q30d_s_0.png",
+    "w": 875,
+    "h": 475,
+    "page": 7,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2013_Q20",
+  "year": 2013,
+  "qnum": "20",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "9.\u00a0\u00a0Statistics, STD2 S5 2013 HSC 20 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 24,
+    "label": null,
+    "raw": "Mean mark 24%",
+    "y": 226.41192626953125,
+    "page": 13
+   }
+  ],
+  "rank_pct": 24,
+  "source_file": "1216L9NLfAr0__RjZAf7mnkTTTOX_Tzey__Random Variables PDF and CDF.pdf",
+  "source_n": 9,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [
+   {
+    "file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+    "n": 13,
+    "tag": "STD2"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2013_Q20_q_0.png",
+    "w": 987,
+    "h": 471,
+    "page": 3,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2013_Q20_s_0.png",
+    "w": 798,
+    "h": 595,
+    "page": 13,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2012_Q9",
+  "year": 2012,
+  "qnum": "9",
+  "mc": true,
+  "tag": "STD2",
+  "code": "F4",
+  "topic": "Financial Maths",
+  "header": "6.\u00a0\u00a0Financial Maths, STD2 F4 2012 HSC 9 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 24,
+    "label": null,
+    "raw": "Mean mark 24%",
+    "y": 368.09796142578125,
+    "page": 7
+   }
+  ],
+  "rank_pct": 24,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 6,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2012_Q9_q_0.png",
+    "w": 1014,
+    "h": 820,
+    "page": 1,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2012_Q9_s_0.png",
+    "w": 932,
+    "h": 284,
+    "page": 7,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2016_Q7",
+  "year": 2016,
+  "qnum": "7",
+  "mc": true,
+  "tag": "2UG",
+  "code": null,
+  "topic": "Data",
+  "header": "9.  Data, 2UG 2016 HSC 7 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 26,
+    "label": null,
+    "raw": "Mean mark 26%",
+    "y": 425.2310485839844,
+    "page": 3
+   }
+  ],
+  "rank_pct": 26,
+  "source_file": "11Oh7CPEKpc7L1r0KRrIzZGGlEwGLDKmP__1. Classifying Data (1).pdf",
+  "source_n": 9,
+  "body_pt": 8.688844680786133,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2016_Q7_q_0.png",
+    "w": 638,
+    "h": 214,
+    "page": 1,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2016_Q7_s_0.png",
+    "w": 829,
+    "h": 119,
+    "page": 3,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2019_Q42",
+  "year": 2019,
+  "qnum": "42",
+  "mc": false,
+  "tag": "STD2",
+  "code": "F5",
+  "topic": "Financial Maths",
+  "header": "19.\u00a0\u00a0Financial Maths, STD2 F5 2019 HSC 42",
+  "marks_total": 3,
+  "marks_parts": [
+   3
+  ],
+  "means": [
+   {
+    "pct": 27,
+    "label": null,
+    "raw": "Mean mark 27%",
+    "y": 79.59063720703125,
+    "page": 14
+   }
+  ],
+  "rank_pct": 27,
+  "source_file": "1dYgghJC_NdKbSkik30s6amtVZ9m8EMxW__Financial Maths 1.pdf",
+  "source_n": 19,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2019_Q42_q_0.png",
+    "w": 990,
+    "h": 657,
+    "page": 7,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2019_Q42_s_0.png",
+    "w": 801,
+    "h": 351,
+    "page": 14,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2018_Q26e",
+  "year": 2018,
+  "qnum": "26e",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S1",
+  "topic": "Statistics",
+  "header": "23.\u00a0\u00a0Statistics, STD2 S1 2018 HSC 26e",
+  "marks_total": 2,
+  "marks_parts": [
+   2
+  ],
+  "means": [
+   {
+    "pct": 27,
+    "label": null,
+    "raw": "Mean mark 27%",
+    "y": 294.78594970703125,
+    "page": 18
+   }
+  ],
+  "rank_pct": 27,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 23,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2018_Q26e_q_0.png",
+    "w": 574,
+    "h": 549,
+    "page": 10,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2018_Q26e_s_0.png",
+    "w": 800,
+    "h": 296,
+    "page": 18,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2019_Q39",
+  "year": 2019,
+  "qnum": "39",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S1",
+  "topic": "Statistics",
+  "header": "24.\u00a0\u00a0Statistics, STD2 S1 2019 HSC 39",
+  "marks_total": 5,
+  "marks_parts": [
+   5
+  ],
+  "means": [
+   {
+    "pct": 28,
+    "label": null,
+    "raw": "Mean mark 28%",
+    "y": 214.21954345703125,
+    "page": 19
+   }
+  ],
+  "rank_pct": 28,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 24,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2019_Q39_q_0.png",
+    "w": 997,
+    "h": 1103,
+    "page": 11,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2019_Q39_s_0.png",
+    "w": 837,
+    "h": 756,
+    "page": 19,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2011_Q23c",
+  "year": 2011,
+  "qnum": "23c",
+  "mc": false,
+  "tag": "STD2",
+  "code": "F4",
+  "topic": "Financial Maths",
+  "header": "20.\u00a0\u00a0Financial Maths, STD2 F4 2011 HSC 23c",
+  "marks_total": 2,
+  "marks_parts": [
+   2
+  ],
+  "means": [
+   {
+    "pct": 28,
+    "label": null,
+    "raw": "Mean mark 28%",
+    "y": 249.7327117919922,
+    "page": 10
+   }
+  ],
+  "rank_pct": 28,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 20,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2011_Q23c_q_0.png",
+    "w": 842,
+    "h": 494,
+    "page": 5,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2011_Q23c_s_0.png",
+    "w": 929,
+    "h": 214,
+    "page": 10,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2009_Q21",
+  "year": 2009,
+  "qnum": "21",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S1",
+  "topic": "Statistics",
+  "header": "8.\u00a0\u00a0Statistics, STD2 S1 2009 HSC 21 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 28,
+    "label": null,
+    "raw": "Mean mark 28%",
+    "y": 188.24884033203125,
+    "page": 15
+   }
+  ],
+  "rank_pct": 28,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 8,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2009_Q21_q_0.png",
+    "w": 980,
+    "h": 247,
+    "page": 3,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2009_Q21_s_0.png",
+    "w": 810,
+    "h": 431,
+    "page": 15,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2009_Q27a",
+  "year": 2009,
+  "qnum": "27a",
+  "mc": false,
+  "tag": "STD2",
+  "code": "F5",
+  "topic": "Financial Maths",
+  "header": "14.\u00a0\u00a0Financial Maths, STD2 F5 2009 HSC 27a",
+  "marks_total": 5,
+  "marks_parts": [
+   1,
+   1,
+   3
+  ],
+  "means": [
+   {
+    "pct": 45,
+    "label": "ii",
+    "raw": "Mean mark 45%",
+    "y": 132.3918914794922,
+    "page": 8
+   },
+   {
+    "pct": 31,
+    "label": "iii",
+    "raw": "Mean mark 31%",
+    "y": 282.66729736328125,
+    "page": 8
+   }
+  ],
+  "rank_pct": 31,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 14,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2009_Q27a_q_0.png",
+    "w": 1009,
+    "h": 765,
+    "page": 3,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2009_Q27a_s_0.png",
+    "w": 960,
+    "h": 1084,
+    "page": 8,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2020_Q7",
+  "year": 2020,
+  "qnum": "7",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S1",
+  "topic": "Statistics",
+  "header": "7.\u00a0\u00a0Statistics, STD2 S1 2020 HSC 7 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 32,
+    "label": null,
+    "raw": "Mean mark 32%",
+    "y": 66.87091064453125,
+    "page": 15
+   }
+  ],
+  "rank_pct": 32,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 7,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2020_Q7_q_0.png",
+    "w": 796,
+    "h": 661,
+    "page": 3,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2020_Q7_s_0.png",
+    "w": 801,
+    "h": 178,
+    "page": 15,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2016_Q30d",
+  "year": 2016,
+  "qnum": "30d",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "24.\u00a0\u00a0Statistics, STD2 S5 2016 HSC 30d",
+  "marks_total": 4,
+  "marks_parts": [
+   1,
+   3
+  ],
+  "means": [
+   {
+    "pct": 32,
+    "label": "ii",
+    "raw": "Mean mark part (ii) 32%",
+    "y": 87.61943054199219,
+    "page": 15
+   }
+  ],
+  "rank_pct": 32,
+  "source_file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+  "source_n": 24,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2016_Q30d_q_0.png",
+    "w": 1010,
+    "h": 477,
+    "page": 4,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2016_Q30d_s_0.png",
+    "w": 969,
+    "h": 521,
+    "page": 15,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2018_Q19",
+  "year": 2018,
+  "qnum": "19",
+  "mc": true,
+  "tag": "STD2",
+  "code": "F4",
+  "topic": "Financial Maths",
+  "header": "8.\u00a0\u00a0Financial Maths, STD2 F4 2018 HSC 19 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 33,
+    "label": null,
+    "raw": "Mean mark 33%",
+    "y": 229.1457977294922,
+    "page": 7
+   }
+  ],
+  "rank_pct": 33,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 8,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2018_Q19_q_0.png",
+    "w": 1021,
+    "h": 827,
+    "page": 2,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2018_Q19_s_0.png",
+    "w": 822,
+    "h": 268,
+    "page": 7,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2016_Q29e",
+  "year": 2016,
+  "qnum": "29e",
+  "mc": false,
+  "tag": "STD2",
+  "code": "A2",
+  "topic": "Algebra",
+  "header": "9.  Algebra, STD2 A2 2016 HSC 29e",
+  "marks_total": 3,
+  "marks_parts": [
+   1,
+   2
+  ],
+  "means": [
+   {
+    "pct": 33,
+    "label": "ii",
+    "raw": "Mean mark part (ii) 33%",
+    "y": 99.3995132446289,
+    "page": 6
+   }
+  ],
+  "rank_pct": 33,
+  "source_file": "1yHZxJTXerymEdBrTukKaxrxUIL3exezC__Bivariate Data HSC Qns.pdf",
+  "source_n": 9,
+  "body_pt": 8.688844680786133,
+  "alt_sources": [
+   {
+    "file": "196YMF37dmRtAa1wJs6nLHNtc1xd1nqUb__4. Bivariate Data Analysis.pdf",
+    "n": 10,
+    "tag": "2UG"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2016_Q29e_q_0.png",
+    "w": 974,
+    "h": 834,
+    "page": 2,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2016_Q29e_s_0.png",
+    "w": 933,
+    "h": 515,
+    "page": 6,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2015_Q30c",
+  "year": 2015,
+  "qnum": "30c",
+  "mc": false,
+  "tag": "STD2",
+  "code": "F5",
+  "topic": "Financial Maths",
+  "header": "22.\u00a0\u00a0Financial Maths, STD2 F5 2015 HSC 30c",
+  "marks_total": 3,
+  "marks_parts": [
+   1,
+   2
+  ],
+  "means": [
+   {
+    "pct": 48,
+    "label": "i",
+    "raw": "Mean mark 48%",
+    "y": 60.34306716918945,
+    "page": 11
+   },
+   {
+    "pct": 33,
+    "label": "ii",
+    "raw": "Mean mark 33%",
+    "y": 170.9905242919922,
+    "page": 11
+   }
+  ],
+  "rank_pct": 33,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 22,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [
+   {
+    "file": "1dYgghJC_NdKbSkik30s6amtVZ9m8EMxW__Financial Maths 1.pdf",
+    "n": 18,
+    "tag": "STD2"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2015_Q30c_q_0.png",
+    "w": 1023,
+    "h": 701,
+    "page": 5,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2015_Q30c_s_0.png",
+    "w": 864,
+    "h": 778,
+    "page": 11,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2016_Q23",
+  "year": 2016,
+  "qnum": "23",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S2",
+  "topic": "Probability",
+  "header": "8.\u00a0\u00a0Probability, STD2 S2 2016 HSC 23 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 34,
+    "label": null,
+    "raw": "Mean mark 34%",
+    "y": 312.80841064453125,
+    "page": 11
+   }
+  ],
+  "rank_pct": 34,
+  "source_file": "1JubRaaoKHqRg4Wb8cTGnfBinNX8_B6OJ__Probability and Probability Distributions.pdf",
+  "source_n": 8,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [
+   {
+    "file": "19cpCWOJAz-MKWepxa3VeSZ-RIEzKli0T__2. Relative Frequency.pdf",
+    "n": 5,
+    "tag": "2UG"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2016_Q23_q_0.png",
+    "w": 966,
+    "h": 581,
+    "page": 3,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2016_Q23_s_0.png",
+    "w": 875,
+    "h": 297,
+    "page": 11,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2011_Q25d",
+  "year": 2011,
+  "qnum": "25d",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S1",
+  "topic": "Statistics",
+  "header": "21.\u00a0\u00a0Statistics, STD2 S1 2011 HSC 25d",
+  "marks_total": 2,
+  "marks_parts": [
+   1,
+   1
+  ],
+  "means": [
+   {
+    "pct": 34,
+    "label": "ii",
+    "raw": "Mean mark 34%",
+    "y": 444.25665283203125,
+    "page": 18
+   }
+  ],
+  "rank_pct": 34,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 21,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2011_Q25d_q_0.png",
+    "w": 939,
+    "h": 753,
+    "page": 9,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2011_Q25d_s_0.png",
+    "w": 931,
+    "h": 200,
+    "page": 18,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2013_Q28b",
+  "year": 2013,
+  "qnum": "28b",
+  "mc": false,
+  "tag": "2UG",
+  "code": null,
+  "topic": "FS Health",
+  "header": "12.  FS Health, 2UG 2013 HSC 28b",
+  "marks_total": 6,
+  "marks_parts": [
+   1,
+   1,
+   2,
+   1,
+   1
+  ],
+  "means": [
+   {
+    "pct": 38,
+    "label": "ii",
+    "raw": "Mean marks of 38%",
+    "y": 170.53915405273438,
+    "page": 7
+   }
+  ],
+  "rank_pct": 38,
+  "source_file": "196YMF37dmRtAa1wJs6nLHNtc1xd1nqUb__4. Bivariate Data Analysis.pdf",
+  "source_n": 12,
+  "body_pt": 8.688844680786133,
+  "alt_sources": [
+   {
+    "file": "1yHZxJTXerymEdBrTukKaxrxUIL3exezC__Bivariate Data HSC Qns.pdf",
+    "n": 10,
+    "tag": "2UG"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2013_Q28b_q_0.png",
+    "w": 997,
+    "h": 1100,
+    "page": 4,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2013_Q28b_s_0.png",
+    "w": 942,
+    "h": 1194,
+    "page": 7,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2015_Q19",
+  "year": 2015,
+  "qnum": "19",
+  "mc": true,
+  "tag": "2UG",
+  "code": null,
+  "topic": "FS Health",
+  "header": "9.  FS Health, 2UG 2015 HSC 19 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 39,
+    "label": null,
+    "raw": "Mean mark 39%",
+    "y": 432.2911071777344,
+    "page": 6
+   }
+  ],
+  "rank_pct": 39,
+  "source_file": "196YMF37dmRtAa1wJs6nLHNtc1xd1nqUb__4. Bivariate Data Analysis.pdf",
+  "source_n": 9,
+  "body_pt": 8.688844680786133,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2015_Q19_q_0.png",
+    "w": 985,
+    "h": 774,
+    "page": 2,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2015_Q19_s_0.png",
+    "w": 814,
+    "h": 418,
+    "page": 6,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2019_Q23",
+  "year": 2019,
+  "qnum": "23",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S4",
+  "topic": "Statistics",
+  "header": "22.\u00a0\u00a0Statistics, STD2 S4 2019 HSC 23",
+  "marks_total": 3,
+  "marks_parts": [
+   1,
+   1,
+   1
+  ],
+  "means": [
+   {
+    "pct": 40,
+    "label": "a",
+    "raw": "Mean mark 40%",
+    "y": 79.59063720703125,
+    "page": 18
+   }
+  ],
+  "rank_pct": 40,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 22,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2019_Q23_q_0.png",
+    "w": 992,
+    "h": 1315,
+    "page": 10,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2019_Q23_s_0.png",
+    "w": 947,
+    "h": 420,
+    "page": 18,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2018_Q26a",
+  "year": 2018,
+  "qnum": "26a",
+  "mc": false,
+  "tag": "2UG",
+  "code": null,
+  "topic": "Probability",
+  "header": "11.  Probability, 2UG 2018 HSC 26a",
+  "marks_total": 1,
+  "marks_parts": [
+   1
+  ],
+  "means": [
+   {
+    "pct": 40,
+    "label": null,
+    "raw": "Mean mark 40%",
+    "y": 361.6939392089844,
+    "page": 5
+   }
+  ],
+  "rank_pct": 40,
+  "source_file": "19cpCWOJAz-MKWepxa3VeSZ-RIEzKli0T__2. Relative Frequency.pdf",
+  "source_n": 11,
+  "body_pt": 8.688844680786133,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2018_Q26a_q_0.png",
+    "w": 950,
+    "h": 262,
+    "page": 3,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2018_Q26a_s_0.png",
+    "w": 813,
+    "h": 228,
+    "page": 5,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2016_Q28d",
+  "year": 2016,
+  "qnum": "28d",
+  "mc": false,
+  "tag": "STD2",
+  "code": "F5",
+  "topic": "Financial Maths",
+  "header": "23.\u00a0\u00a0Financial Maths, STD2 F5 2016 HSC 28d",
+  "marks_total": 2,
+  "marks_parts": [
+   2
+  ],
+  "means": [
+   {
+    "pct": 40,
+    "label": null,
+    "raw": "Mean mark 40%",
+    "y": 377.87628173828125,
+    "page": 11
+   }
+  ],
+  "rank_pct": 40,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 23,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2016_Q28d_q_0.png",
+    "w": 1028,
+    "h": 618,
+    "page": 6,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2016_Q28d_s_0.png",
+    "w": 812,
+    "h": 404,
+    "page": 11,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2013_Q23",
+  "year": 2013,
+  "qnum": "23",
+  "mc": true,
+  "tag": "STD2",
+  "code": "F5",
+  "topic": "Financial Maths",
+  "header": "9.\u00a0\u00a0Financial Maths, STD2 F5 2013 23 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 41,
+    "label": null,
+    "raw": "Mean mark 41%",
+    "y": 362.43780517578125,
+    "page": 7
+   }
+  ],
+  "rank_pct": 41,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 9,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2013_Q23_q_0.png",
+    "w": 1013,
+    "h": 302,
+    "page": 2,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2013_Q23_s_0.png",
+    "w": 812,
+    "h": 470,
+    "page": 7,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2009_Q25d",
+  "year": 2009,
+  "qnum": "25d",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "19.\u00a0\u00a0Statistics, STD2 S5 2009 HSC 25d",
+  "marks_total": 4,
+  "marks_parts": [
+   1,
+   3
+  ],
+  "means": [
+   {
+    "pct": 41,
+    "label": "ii",
+    "raw": "Mean mark 41%",
+    "y": 266.19854736328125,
+    "page": 12
+   }
+  ],
+  "rank_pct": 41,
+  "source_file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+  "source_n": 19,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2009_Q25d_q_0.png",
+    "w": 989,
+    "h": 306,
+    "page": 3,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2009_Q25d_s_0.png",
+    "w": 971,
+    "h": 964,
+    "page": 12,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2019_Q34",
+  "year": 2019,
+  "qnum": "34",
+  "mc": false,
+  "tag": "STD2",
+  "code": "A2",
+  "topic": "Algebra",
+  "header": "29.\u00a0\u00a0Algebra, STD2 A2 2019 HSC 34",
+  "marks_total": 3,
+  "marks_parts": [
+   1,
+   2
+  ],
+  "means": [
+   {
+    "pct": 42,
+    "label": "a",
+    "raw": "Mean mark 42%",
+    "y": 192.48907470703125,
+    "page": 18
+   }
+  ],
+  "rank_pct": 42,
+  "source_file": "1noZr7coG5qy7Z2DkMtAK-elSXCEVg4xW__Working with Functions.pdf",
+  "source_n": 29,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2019_Q34_q_0.png",
+    "w": 1000,
+    "h": 1002,
+    "page": 10,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2019_Q34_s_0.png",
+    "w": 835,
+    "h": 703,
+    "page": 18,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2011_Q27d",
+  "year": 2011,
+  "qnum": "27d",
+  "mc": false,
+  "tag": "STD2",
+  "code": "F5",
+  "topic": "Financial Maths",
+  "header": "18.\u00a0\u00a0Financial Maths, STD2 F5 2011 HSC 27d",
+  "marks_total": 4,
+  "marks_parts": [
+   4
+  ],
+  "means": [
+   {
+    "pct": 42,
+    "label": null,
+    "raw": "Mean mark 42%",
+    "y": 44.90361404418945,
+    "page": 10
+   }
+  ],
+  "rank_pct": 42,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 18,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2011_Q27d_q_0.png",
+    "w": 1022,
+    "h": 562,
+    "page": 4,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2011_Q27d_s_0.png",
+    "w": 930,
+    "h": 982,
+    "page": 10,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2011_Q27c",
+  "year": 2011,
+  "qnum": "27c",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "21.\u00a0\u00a0Statistics, STD2 S5 2011 HSC 27c",
+  "marks_total": 3,
+  "marks_parts": [
+   1,
+   2
+  ],
+  "means": [
+   {
+    "pct": 42,
+    "label": "ii",
+    "raw": "Mean mark 42%",
+    "y": 163.7864227294922,
+    "page": 13
+   }
+  ],
+  "rank_pct": 42,
+  "source_file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+  "source_n": 21,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2011_Q27c_q_0.png",
+    "w": 1017,
+    "h": 509,
+    "page": 4,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2011_Q27c_s_0.png",
+    "w": 975,
+    "h": 598,
+    "page": 13,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2010_Q24c",
+  "year": 2010,
+  "qnum": "24c",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "20.\u00a0\u00a0Statistics, STD2 S5 2010 HSC 24c",
+  "marks_total": 4,
+  "marks_parts": [
+   1,
+   1,
+   2
+  ],
+  "means": [
+   {
+    "pct": 42,
+    "label": "ii",
+    "raw": "Mean mark 42%",
+    "y": 211.1321258544922,
+    "page": 13
+   }
+  ],
+  "rank_pct": 42,
+  "source_file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+  "source_n": 20,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2010_Q24c_q_0.png",
+    "w": 1026,
+    "h": 359,
+    "page": 3,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2010_Q24c_s_0.png",
+    "w": 968,
+    "h": 993,
+    "page": 13,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2016_Q21",
+  "year": 2016,
+  "qnum": "21",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S1",
+  "topic": "Statistics",
+  "header": "6.\u00a0\u00a0Statistics, STD2 S1 2016 HSC 21 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 43,
+    "label": null,
+    "raw": "Mean mark 43%",
+    "y": 462.80938720703125,
+    "page": 14
+   }
+  ],
+  "rank_pct": 43,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 6,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2016_Q21_q_0.png",
+    "w": 443,
+    "h": 572,
+    "page": 3,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2016_Q21_s_0.png",
+    "w": 791,
+    "h": 192,
+    "page": 14,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2014_Q21",
+  "year": 2014,
+  "qnum": "21",
+  "mc": true,
+  "tag": "STD2",
+  "code": "F5",
+  "topic": "Financial Maths",
+  "header": "7.\u00a0\u00a0Financial Maths, STD2 F5 2014 HSC 21 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 43,
+    "label": null,
+    "raw": "Mean mark 43%",
+    "y": 59.82841873168945,
+    "page": 7
+   }
+  ],
+  "rank_pct": 43,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 7,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [
+   {
+    "file": "1dYgghJC_NdKbSkik30s6amtVZ9m8EMxW__Financial Maths 1.pdf",
+    "n": 4,
+    "tag": "STD2"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2014_Q21_q_0.png",
+    "w": 1027,
+    "h": 705,
+    "page": 2,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2014_Q21_s_0.png",
+    "w": 808,
+    "h": 370,
+    "page": 7,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2012_Q11",
+  "year": 2012,
+  "qnum": "11",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S4",
+  "topic": "Statistics",
+  "header": "4.\u00a0\u00a0Statistics, STD2 S4 2012 HSC 11 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 43,
+    "label": null,
+    "raw": "Mean mark 43%",
+    "y": 58.39044189453125,
+    "page": 14
+   }
+  ],
+  "rank_pct": 43,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 4,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [
+   {
+    "file": "196YMF37dmRtAa1wJs6nLHNtc1xd1nqUb__4. Bivariate Data Analysis.pdf",
+    "n": 8,
+    "tag": "2UG"
+   },
+   {
+    "file": "1yHZxJTXerymEdBrTukKaxrxUIL3exezC__Bivariate Data HSC Qns.pdf",
+    "n": 8,
+    "tag": "2UG"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2012_Q11_q_0.png",
+    "w": 874,
+    "h": 201,
+    "page": 2,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2012_Q11_s_0.png",
+    "w": 867,
+    "h": 127,
+    "page": 14,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2019_Q38",
+  "year": 2019,
+  "qnum": "38",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "28.\u00a0\u00a0Statistics, STD2 S5 2019 HSC 38",
+  "marks_total": 2,
+  "marks_parts": [
+   2
+  ],
+  "means": [
+   {
+    "pct": 44,
+    "label": null,
+    "raw": "Mean mark 44%",
+    "y": 59.82841873168945,
+    "page": 16
+   }
+  ],
+  "rank_pct": 44,
+  "source_file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+  "source_n": 28,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2019_Q38_q_0.png",
+    "w": 1016,
+    "h": 132,
+    "page": 5,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2019_Q38_s_0.png",
+    "w": 811,
+    "h": 403,
+    "page": 16,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2015_Q28b",
+  "year": 2015,
+  "qnum": "28b",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "18.\u00a0\u00a0Statistics, STD2 S5 2015 HSC 28b",
+  "marks_total": 2,
+  "marks_parts": [
+   2
+  ],
+  "means": [
+   {
+    "pct": 44,
+    "label": null,
+    "raw": "Mean mark 44%",
+    "y": 125.70391845703125,
+    "page": 17
+   }
+  ],
+  "rank_pct": 44,
+  "source_file": "1216L9NLfAr0__RjZAf7mnkTTTOX_Tzey__Random Variables PDF and CDF.pdf",
+  "source_n": 18,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [
+   {
+    "file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+    "n": 27,
+    "tag": "STD2"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2015_Q28b_q_0.png",
+    "w": 991,
+    "h": 451,
+    "page": 7,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2015_Q28b_s_0.png",
+    "w": 792,
+    "h": 590,
+    "page": 17,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2013_Q26e",
+  "year": 2013,
+  "qnum": "26e",
+  "mc": false,
+  "tag": "STD2",
+  "code": "F4",
+  "topic": "Financial Maths",
+  "header": "21.\u00a0\u00a0Financial Maths, STD2 F4 2013 HSC 26e",
+  "marks_total": 2,
+  "marks_parts": [
+   2
+  ],
+  "means": [
+   {
+    "pct": 44,
+    "label": null,
+    "raw": "Mean mark 44%",
+    "y": 365.52667236328125,
+    "page": 10
+   }
+  ],
+  "rank_pct": 44,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 21,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [
+   {
+    "file": "1dYgghJC_NdKbSkik30s6amtVZ9m8EMxW__Financial Maths 1.pdf",
+    "n": 17,
+    "tag": "STD2"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2013_Q26e_q_0.png",
+    "w": 845,
+    "h": 621,
+    "page": 5,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2013_Q26e_s_0.png",
+    "w": 933,
+    "h": 299,
+    "page": 10,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2012_Q29b",
+  "year": 2012,
+  "qnum": "29b",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "25.\u00a0\u00a0Statistics, STD2 S5 2012 HSC 29b",
+  "marks_total": 2,
+  "marks_parts": [
+   2
+  ],
+  "means": [
+   {
+    "pct": 44,
+    "label": null,
+    "raw": "Mean mark 44%",
+    "y": 272.37530517578125,
+    "page": 15
+   }
+  ],
+  "rank_pct": 44,
+  "source_file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+  "source_n": 25,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2012_Q29b_q_0.png",
+    "w": 1029,
+    "h": 274,
+    "page": 4,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2012_Q29b_s_0.png",
+    "w": 808,
+    "h": 430,
+    "page": 15,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2014_Q24",
+  "year": 2014,
+  "qnum": "24",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "10.\u00a0\u00a0Statistics, STD2 S5 2014 HSC 24 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 46,
+    "label": null,
+    "raw": "Mean mark 46%",
+    "y": 44.90361404418945,
+    "page": 9
+   }
+  ],
+  "rank_pct": 46,
+  "source_file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+  "source_n": 10,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2014_Q24_q_0.png",
+    "w": 1026,
+    "h": 275,
+    "page": 1,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2014_Q24_s_0.png",
+    "w": 808,
+    "h": 761,
+    "page": 9,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2018_Q23",
+  "year": 2018,
+  "qnum": "23",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "12.\u00a0\u00a0Statistics, STD2 S5 2018 HSC 23 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 47,
+    "label": null,
+    "raw": "Mean mark 47%",
+    "y": 60.85771560668945,
+    "page": 10
+   }
+  ],
+  "rank_pct": 47,
+  "source_file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+  "source_n": 12,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2018_Q23_q_0.png",
+    "w": 866,
+    "h": 242,
+    "page": 2,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2018_Q23_s_0.png",
+    "w": 811,
+    "h": 821,
+    "page": 10,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2017_Q27a",
+  "year": 2017,
+  "qnum": "27a",
+  "mc": false,
+  "tag": "STD2",
+  "code": "S1",
+  "topic": "Statistics",
+  "header": "20.\u00a0\u00a0Statistics, STD2 S1 2017 HSC 27a",
+  "marks_total": 2,
+  "marks_parts": [
+   1,
+   1
+  ],
+  "means": [
+   {
+    "pct": 47,
+    "label": "ii",
+    "raw": "Mean mark part (ii) 47%",
+    "y": 320.22735595703125,
+    "page": 18
+   }
+  ],
+  "rank_pct": 47,
+  "source_file": "11oiA3tStfb2AYkGT5x04jSvdITU-9xes__Interpretation and Bivariate Data.pdf",
+  "source_n": 20,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2017_Q27a_q_0.png",
+    "w": 983,
+    "h": 302,
+    "page": 9,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2017_Q27a_s_0.png",
+    "w": 930,
+    "h": 222,
+    "page": 18,
+    "col": 0
+   }
+  ]
+ },
+ {
+  "id": "2017_Q29c",
+  "year": 2017,
+  "qnum": "29c",
+  "mc": false,
+  "tag": "2UG",
+  "code": null,
+  "topic": "Probability",
+  "header": "10.  Probability, 2UG 2017 HSC 29c",
+  "marks_total": 4,
+  "marks_parts": [
+   2,
+   2
+  ],
+  "means": [
+   {
+    "pct": 47,
+    "label": "ii",
+    "raw": "Mean mark part (ii) 47%",
+    "y": 137.41317749023438,
+    "page": 5
+   }
+  ],
+  "rank_pct": 47,
+  "source_file": "19cpCWOJAz-MKWepxa3VeSZ-RIEzKli0T__2. Relative Frequency.pdf",
+  "source_n": 10,
+  "body_pt": 8.688844680786133,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2017_Q29c_q_0.png",
+    "w": 998,
+    "h": 555,
+    "page": 3,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2017_Q29c_s_0.png",
+    "w": 920,
+    "h": 739,
+    "page": 5,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2014_Q30a",
+  "year": 2014,
+  "qnum": "30a",
+  "mc": false,
+  "tag": "STD2",
+  "code": "F4",
+  "topic": "Financial Maths",
+  "header": "19.\u00a0\u00a0Financial Maths, STD2 F4 2014 HSC 30a",
+  "marks_total": 3,
+  "marks_parts": [
+   3
+  ],
+  "means": [
+   {
+    "pct": 49,
+    "label": null,
+    "raw": "Mean mark 49%",
+    "y": 44.90459060668945,
+    "page": 10
+   }
+  ],
+  "rank_pct": 49,
+  "source_file": "1B4kcFKiMYGJGEFzdmeJB5EE0YrL73UzO__1. Modelling Investments and Loans.pdf",
+  "source_n": 19,
+  "body_pt": 8.234267234802246,
+  "alt_sources": [
+   {
+    "file": "1dYgghJC_NdKbSkik30s6amtVZ9m8EMxW__Financial Maths 1.pdf",
+    "n": 16,
+    "tag": "STD2"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2014_Q30a_q_0.png",
+    "w": 985,
+    "h": 176,
+    "page": 5,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2014_Q30a_s_0.png",
+    "w": 808,
+    "h": 470,
+    "page": 10,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2015_Q20",
+  "year": 2015,
+  "qnum": "20",
+  "mc": true,
+  "tag": "STD2",
+  "code": "S5",
+  "topic": "Statistics",
+  "header": "6.\u00a0\u00a0Statistics, STD2 S5 2015 HSC 20 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 50,
+    "label": null,
+    "raw": "Mean mark 50%",
+    "y": 79.59063720703125,
+    "page": 12
+   }
+  ],
+  "rank_pct": 50,
+  "source_file": "1216L9NLfAr0__RjZAf7mnkTTTOX_Tzey__Random Variables PDF and CDF.pdf",
+  "source_n": 6,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [
+   {
+    "file": "1lvvLf4nU531GkOG3hafQxZ-JdhYmSd7b__1. Normal Distribution (1).pdf",
+    "n": 11,
+    "tag": "STD2"
+   }
+  ],
+  "q_images": [
+   {
+    "path": "2015_Q20_q_0.png",
+    "w": 961,
+    "h": 319,
+    "page": 3,
+    "col": 0
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2015_Q20_s_0.png",
+    "w": 791,
+    "h": 692,
+    "page": 12,
+    "col": 1
+   }
+  ]
+ },
+ {
+  "id": "2011_Q20",
+  "year": 2011,
+  "qnum": "20",
+  "mc": true,
+  "tag": "STD2",
+  "code": "A4",
+  "topic": "Algebra",
+  "header": "11.\u00a0\u00a0Algebra, STD2 A4 2011 HSC 20 MC",
+  "marks_total": 1,
+  "marks_parts": [],
+  "means": [
+   {
+    "pct": 50,
+    "label": null,
+    "raw": "Mean mark 50%",
+    "y": 385.95391845703125,
+    "page": 13
+   }
+  ],
+  "rank_pct": 50,
+  "source_file": "1noZr7coG5qy7Z2DkMtAK-elSXCEVg4xW__Working with Functions.pdf",
+  "source_n": 11,
+  "body_pt": 8.480615615844727,
+  "alt_sources": [],
+  "q_images": [
+   {
+    "path": "2011_Q20_q_0.png",
+    "w": 982,
+    "h": 1098,
+    "page": 4,
+    "col": 1
+   }
+  ],
+  "s_images": [
+   {
+    "path": "2011_Q20_s_0.png",
+    "w": 905,
+    "h": 303,
+    "page": 13,
+    "col": 0
+   }
+  ]
+ }
+]
